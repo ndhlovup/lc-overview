@@ -4,7 +4,10 @@ root: .  # Is the only page that don't follow the partner /:path/index.html
 permalink: index.html  # Is the only page that don't follow the partner /:path/index.html
 ---
 
-Library Carpentry’s aim is to teach people working in library- and information-related roles how to automate tasks, create, maintain, and analyze sustainable and reusable data, work effectively with IT and systems colleagues, and better understand the use of software in research. Training takes place mainly in face-to-face workshops. To learn more about our workshops, see [The Carpentries Handbook](https://docs.carpentries.org/).
+>## Aim
+>
+> Library Carpentry’s aim is to teach people working in library- and information-related roles how to automate tasks, create, maintain,    and analyze sustainable and reusable data, work effectively with IT and systems colleagues, and better understand the use of software in research. Training takes place mainly in face-to-face workshops. To learn more about our workshops, see [The Carpentries Handbook](https://docs.carpentries.org/).
+
 
 > ## Audience
 >
